@@ -8,7 +8,6 @@ import Parsers.mangalib.main as main
 #==========================================================================================#
 
 NAME = "hentailib"
-REPOS = "https://github.com/DUB1401/hentailib"
 SITE = "hentailib.me"
 main.NAME = NAME
 main.SITE = SITE
