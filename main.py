@@ -1,4 +1,4 @@
-from Parsers.mangalib.main import VERSION, STRUCT
+from Parsers.mangalib.main import VERSION, TYPE
 from Parsers.mangalib.main import Parser
 
 import Parsers.mangalib.main as main 
